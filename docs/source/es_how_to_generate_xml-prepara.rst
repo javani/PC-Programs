@@ -95,7 +95,7 @@ Para optimizar el proceso de marcaje de los elementos básicos do archivo, es ne
 
 **Instrucción para formateo de datos básicos del artículo:**
 
- * Línea 1: inserir número de DOI (solamente si presente), caso no exista dejar línea en blanco;
+ * Línea 1: inserir número de DOI (solamente si presente), caso no exista empezar por la sección;
  * Línea 2: inserir la sección de la tabla de contenido (si ausente, dejar línea en blanco);
  * Línea 3: Título del artículo;
  * Líneas siguientes: Títulos traducidos del archivo;
@@ -126,6 +126,8 @@ Ejemplo:
    :width: 200px
    :align: center
 
+.. raw:: html
 
+   <iframe width="854" height="480" src="https://www.youtube.com/watch?v=kaYRu-bkhBE&list=PLQZT93bz3H79NTc-aUFMU_UZgo4Vl2iUH&index=6" frameborder="0" allowfullscreen></iframe>
 
 .. note:: Las imágenes de los artículos deben estar disponibles en el archivo .doc, preferencialmente en formato .jpeg y .png.
